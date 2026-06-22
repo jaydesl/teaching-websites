@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Jay DesLauriers
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hi I'm an STF at ECRI with the RCDS team, based out of Imperial Collge London.
 
-## Commands
+<img width="380" height="380" alt="Photo of me!" src="https://github.com/user-attachments/assets/882fd4f4-d899-4b02-bd21-e71d6aba6f58" />
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Teaching
 
-## Project layout
+* Introduction to Programming (**MSc Finance**) 2022-present
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Papers
+
+* Conference on Software Engineering Education & Training 2026. *Research Computing Exemplars in Practice*....
