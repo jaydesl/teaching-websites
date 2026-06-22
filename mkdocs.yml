@@ -1,5 +1,10 @@
 site_name: Teaching Website
-theme: material
+
+theme:
+  name: material
+  palette:
+    primary: teal
+    
 markdown_extensions:
   - admonition
   - pymdownx.details
